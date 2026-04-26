@@ -1,0 +1,21 @@
+{
+  "name": "replog-monorepo",
+  "private": true,
+  "engines": {
+    "node": ">=20.0.0 <23.0.0"
+  },
+  "workspaces": [
+    "av-portal"
+  ],
+  "scripts": {
+    "build": "npm run build --workspace=av-portal",
+    "dev": "npm run dev --workspace=av-portal"
+  },
+  "dependencies": {
+    "next": "16.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/oxide": "^4.2.4",
+    "lightningcss": "^1.32.0"
+  }
+}
