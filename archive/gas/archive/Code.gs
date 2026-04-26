@@ -4,11 +4,11 @@
  */
 
 const CONFIG = {
-  SPREADSHEET_ID: "1g2OrqI0kKSU7d8nF-ODKFJUt230lDnsrHYrifeniRzI",
-  SCREENSHOT_FOLDER_ID: "1OiQNMJ9wCUlUUfFF1V5FdOG0JeiD07gE",
+  SPREADSHEET_ID: "1flBTLGnC2hJgWUW8nl-vsu_d8d4kAo3ycIK0Wlg-lN4",
+  SCREENSHOT_FOLDER_ID: "14AjN0CqTbVYLbSq9Qb3Xh3C5OKEdvVIj",
   UPLOAD_TOKEN: "wcm-av-upload-202",
   // YOUR SERVICE ACCOUNT EMAIL
-  SERVICE_ACCOUNT: "first-project@studious-matrix-483021-p5.iam.gserviceaccount.com"
+  SERVICE_ACCOUNT: "wchapelmeanchester@adroit-lock-381619.iam.gserviceaccount.com"
 };
 
 function doPost(e) {
